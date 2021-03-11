@@ -6,7 +6,15 @@
 Type-C口也不是全功能的，不支持音频/视频输出。
 要关注处理器型号。内存容量
 
-M.2 SSD 又分为SATA和PCI-E两种。
+M.2 SSD 分为SATA和PCI-E两种。
 M.2有两种接口定义：Socket 2和Socket 3。Socket 2支持SATA、PCI-EX2通道的SSD，Socket 3专为高性能存储设计，支持PCI-EX4。
 SATA3.0通道的理论带宽是6Gb/s.理论极限传输速度600MB/s。主板M.2接口走PCI-E通道传输通道带宽为10Gb/s。
 理论SATA2.0接口速率是150MB/s ，而SATA3.0的接口速率：300MB/s。
+
+固态硬盘
+固态驱动器（Solid State Drive），俗称固态硬盘，固态硬盘是用固态电子存储芯片阵列而制成的硬盘。
+SSD由控制单元和存储单元（FLASH芯片、DRAM芯片）组成。
+
+M.2接口
+M.2接口是Intel推出的一种替代mSATA的新的接口规范，也就是我们以前经常提到的NGFF，即Next Generation Form Factor。
+M.2接口目前支持两种通道总线，一个是SATA总线，一个是PCI-E总线。
